@@ -6,7 +6,8 @@ namespace CSharpCoursePractice
     {
         static void Main(string[] args)
         {
-            HeronFormula heronFormula = new HeronFormula();
+            //HeronFormula HeronFormula = new HeronFormula();
+            UserProfile UserProfile = new UserProfile();
         }
     }
 }
