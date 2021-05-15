@@ -1,0 +1,1 @@
+study tasks from the course https://www.udemy.com/course/csharp-ru/
